@@ -6,7 +6,8 @@ namespace iMonitor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("iMonitor aberto");
+            Console.WriteLine("O que deseja visualizar");
         }
     }
 }
