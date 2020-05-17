@@ -8,6 +8,7 @@ namespace iMonitor
         {
             Console.WriteLine("iMonitor aberto");
             Console.WriteLine("O que deseja visualizar");
+            Console.WriteLine("Essa mensagem não serve para nada!");
         }
     }
 }
